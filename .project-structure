@@ -1,0 +1,14 @@
+# HalalTakaful Project Files
+
+## Documentation
+- `README.md` - Complete project documentation
+- `package.json` - Root package configuration
+
+## Directories
+- `backend/` - Node.js backend server
+- `frontend/` - React frontend application
+- `src/` - Additional source files
+
+## Scripts
+- `start.bat` - Windows batch script to start both servers
+- `start.ps1` - PowerShell script to start both servers
